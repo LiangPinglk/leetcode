@@ -1,0 +1,5 @@
+class Solution(object):
+
+sol = Solution()
+import ipdb
+ipdb.set_trace()
